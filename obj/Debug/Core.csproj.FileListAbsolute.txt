@@ -1,0 +1,4 @@
+C:\Users\PC-WeiXingChen\Documents\Visual Studio 2015\Projects\Core\bin\Debug\Core.dll
+C:\Users\PC-WeiXingChen\Documents\Visual Studio 2015\Projects\Core\bin\Debug\Core.pdb
+C:\Users\PC-WeiXingChen\Documents\Visual Studio 2015\Projects\Core\obj\Debug\Core.dll
+C:\Users\PC-WeiXingChen\Documents\Visual Studio 2015\Projects\Core\obj\Debug\Core.pdb
